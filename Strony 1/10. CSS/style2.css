@@ -1,0 +1,24 @@
+body {
+	background: #333333;
+	maring: 20px;
+}
+span {
+	color: #ffffff;
+}
+h1 {
+	color: #eeeeee;
+}
+P.normalny
+{
+font-family: Helvetica; font-size: 10pt
+}
+P.przypisy
+{
+font-family: Helvetica; font-size: 8pt
+}
+P.wagi
+{
+font-family: Helvetica; font-size: 10;t font-weight: bold
+}
+.istotne (font-family: Helvetica; font-size: 14pt; font-weight: bold; color: lime)
+.klasa1 (font-family: verdana, tahoma, arialce, helvaticace, helvatica, sans-serif;)

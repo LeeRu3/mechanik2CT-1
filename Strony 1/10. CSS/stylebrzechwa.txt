@@ -1,0 +1,59 @@
+body
+{
+	background: #4f4f4f;
+	margin: 50px;
+	font-family: Arial;
+	color: #bfbfbd;
+	text-align: justify;
+}
+span 
+{
+	color: #258dc4;
+	font-size: 20px;
+	font-weight: bold;
+}
+img
+{
+	width:300px;
+	float:right;
+	margin:10px;
+}
+h1
+{
+	color: white;
+}
+p
+{
+	text-indent: 8%
+}
+p.normalny
+{
+font-family: Helvetica; font-size: 10pt
+}
+p.przypisy
+{
+font-family: arial; font-size: 8pt
+}
+p.uwagi
+{
+font-family: verdana; font-size: 10pt; font-weight: bold
+} 
+#ala
+{
+	color: red;
+}
+A:active {
+	color:blue;
+}
+
+A:link {
+	color:black;
+}
+
+A:visited {
+	color:green;
+	}
+
+A:hover {
+	color:red; text-decoration:underline;
+	}
