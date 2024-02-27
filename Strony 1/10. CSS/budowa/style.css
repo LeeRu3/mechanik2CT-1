@@ -5,6 +5,14 @@ body
 	margin-right:auto;
 	text-align: justify;
 }
+a.pom
+{
+	color: #ff6600;
+}
+a.pom:hover
+{
+	color:green;
+}
 .lista
 {
 	text-align:center;
