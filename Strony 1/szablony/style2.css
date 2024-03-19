@@ -14,14 +14,14 @@ body
 #header
 {
 	height: 150px;
-	background: blue;
+	background: green;
 }
 #left
 {
 	width: 170px;
 	height: 500px;
 	float: left;
-	background: gray;
+	background: pink;
 }
 #center
 {
